@@ -10,5 +10,6 @@ return {
     --   end,
     -- },
     {"juliosueiras/terraform-lsp", enabled = true},
-    {"hashivim/vim-terraform", enabled = true}
+    {"hashivim/vim-terraform", enabled = true},
+    {"taybart/b64.nvim", enabled = true}
 }
